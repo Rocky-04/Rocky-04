@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="webtricks-master.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
 [<img align="left" alt="Rocky-04 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -35,7 +35,6 @@
 
 <details>
   <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rocky-04&langs_count=8&layout=compact" />
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rocky-04&show_icons=true" />
 </details>
