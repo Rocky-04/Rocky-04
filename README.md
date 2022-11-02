@@ -2,12 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=Rocky-04)
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a BackEnd Developer
 - 💪 I like to write code
-- 🎉 I love to paint and play the guitar
-- 🥅 I am constantly learning new things
-- ⚡ I love writing an article for https://webtricks-master.ru/
-- 🤹🏽 I like to shoot videos for youtube 
+- 🎉 I love movie and play football
+- 🥅 
+- ⚡ 
+- 🤹🏽 
 
 ### Connect with me:
 
@@ -18,7 +18,7 @@
 <br />
 
 ### Languages and Tools:
-
+<img align="left" alt="React" width="26px" src="https://img.shields.io/badge/?style=for-the-badge&logo=python&logoColor=black" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
