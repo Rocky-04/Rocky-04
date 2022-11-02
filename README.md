@@ -42,4 +42,5 @@
 
 [linkedin]: https://www.linkedin.com/in/oleg-tsynkovskiy-9a2975238/
 [telegram]: https://t.me/Rocky_0013
-[viber]: https://viber://chat?number+380631959083
+[viber]: viber://chat?number=+380631959083
+
