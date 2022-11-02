@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Oleg
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
+![](https://komarev.com/ghpvc/?username=Rocky-04)
 
 ## I'm a FrontEnd Developer, and Teacher
 - 💪 I like to write code
