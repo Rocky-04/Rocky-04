@@ -13,6 +13,8 @@
 
 
 [<img align="left" alt="Rocky-04 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Rocky-04 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Rocky-04 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/viber.svg" />][viber]
 
 
 <br />
@@ -39,3 +41,5 @@
 </details>
 
 [linkedin]: https://www.linkedin.com/in/oleg-tsynkovskiy-9a2975238/
+[telegram]: https://t.me/Rocky_0013
+[viber]: https://viber://chat?number+380631959083
