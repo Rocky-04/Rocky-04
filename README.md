@@ -21,11 +21,10 @@
 <img align="left" alt="python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
 <img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
 <img align="left" alt="mysql" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
-<img align="left" alt="sqlite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqLite.svg" />
+<img align="left" alt="sqlite" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" />
 <img align="left" alt="pandas" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pandas.svg" />
 <img align="left" alt="html5" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img align="left" alt="selenium" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/selenium.svg" />
 <img align="left" alt="docker" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/docker.svg" />
 
 <br />
