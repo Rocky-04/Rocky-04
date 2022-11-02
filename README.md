@@ -4,10 +4,10 @@
 
 ## I'm a BackEnd Developer
 - 💪 I like to write code
-- 🎉 I love movie and play football
+- 🎉 I love a movie and playing football
 - 🖥️ Open for work (Python Developer)
-- 💼 Looking for my first job in IT, where i can grow fast, gain new skills, work with team
-- 🚀 Looking for full-time job in office or remote, schedule is not important
+- 💼 Looking for my first job in IT, where I can grow fast, gain new skills, and work in a team
+- 🚀 Looking for a full-time job in an office or remote, a schedule is not important
 
 ### Connect with me:
 
