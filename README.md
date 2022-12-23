@@ -4,12 +4,12 @@
 
 ## I'm a Python Developer
 
-🔥 I'm a code warrior, always pushing the limits
-💻 I live for the thrill of debugging and solving problems
-🛠️ I'm constantly learning and improving my skills
-💼 I'm looking for my next challenge, a place where I can grow and excel
-💪 I'm always ready to take on new tasks and learn something new
-🎓 I have a strong foundation in Python, but I'm always looking to expand my knowledge and expertise in other areas of programming and IT.
+- 🔥 I'm a code warrior, always pushing the limits
+- 💻 I live for the thrill of debugging and solving problems
+- 🛠️ I'm constantly learning and improving my skills
+- 💼 I'm looking for my next challenge, a place where I can grow and excel
+- 💪 I'm always ready to take on new tasks and learn something new
+- 🎓 I have a strong foundation in Python, but I'm always looking to expand my knowledge and expertise in other areas of programming and IT.
 
 ### Connect with me:
 
