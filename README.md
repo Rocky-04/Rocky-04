@@ -2,12 +2,14 @@
 
 ![](https://komarev.com/ghpvc/?username=Rocky-04)
 
-## I'm a BackEnd Developer
-- 💪 I like to write code
-- 🎉 I love a movie and playing football
-- 🖥️ Open for work (Python Developer)
-- 💼 Looking for my first job in IT, where I can grow fast, gain new skills, and work in a team.
-- 🚀 I am looking for a full-time job in an office or remotely. A schedule is optional.
+## I'm a Python Developer
+
+🔥 I'm a code warrior, always pushing the limits
+💻 I live for the thrill of debugging and solving problems
+🛠️ I'm constantly learning and improving my skills
+💼 I'm looking for my next challenge, a place where I can grow and excel
+💪 I'm always ready to take on new tasks and learn something new
+🎓 I have a strong foundation in Python, but I'm always looking to expand my knowledge and expertise in other areas of programming and IT.
 
 ### Connect with me:
 
