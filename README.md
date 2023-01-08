@@ -38,6 +38,7 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rocky-04&show_icons=true" />
 </details>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rocky-04&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Rocky-04" align = "center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rocky-04&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Rocky-04" align = "center"/></p>
 
 [linkedin]: https://www.linkedin.com/in/oleg-tsynkovskiy/
 [telegram]: https://t.me/Rocky_0013
