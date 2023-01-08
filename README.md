@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Oleg
 
 ![](https://komarev.com/ghpvc/?username=Rocky-04)
-<p align="left"><img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Support Ukraine - Help Provide Humanitarian Aid to Ukraine." align = "center" /></p>
+<p align="left"><img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Support Ukraine" align = "center" /></p>
 
 ## I'm a Python Developer
 
@@ -37,6 +37,7 @@
     <br />
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rocky-04&show_icons=true" />
 </details>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rocky-04&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Rocky-04" align = "center"/>
 
 [linkedin]: https://www.linkedin.com/in/oleg-tsynkovskiy/
 [telegram]: https://t.me/Rocky_0013
