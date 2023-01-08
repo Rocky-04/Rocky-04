@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Oleg
 
 ![](https://komarev.com/ghpvc/?username=Rocky-04)
-<p align="right"><img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Support Ukraine - Help Provide Humanitarian Aid to Ukraine." align = "center" /></p>
+<p align="left"><img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Support Ukraine - Help Provide Humanitarian Aid to Ukraine." align = "center" /></p>
 
 ## I'm a Python Developer
 
