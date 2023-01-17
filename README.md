@@ -41,5 +41,3 @@
 [linkedin]: https://www.linkedin.com/in/oleg-tsynkovskiy/
 [telegram]: https://t.me/Rocky_0013
 
-
-
