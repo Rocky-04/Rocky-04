@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Rocky-04 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rocky-04 | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Rocky-04 | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][telegram]
+[<img align="left" alt="Rocky-04 | telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codewars.svg" />][codewars]
 
 <br />
 
@@ -41,4 +41,5 @@
 
 [linkedin]: https://www.linkedin.com/in/oleg-tsynkovskiy/
 [telegram]: https://t.me/Rocky_0013
+[codewars]: https://t.me/Rocky_0013](https://www.codewars.com/users/Rocky-04
 
