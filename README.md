@@ -41,5 +41,5 @@
 
 [linkedin]: https://www.linkedin.com/in/oleg-tsynkovskiy/
 [telegram]: https://t.me/Rocky_0013
-[codewars]: https://t.me/Rocky_0013](https://www.codewars.com/users/Rocky-04
+[codewars]: https://www.codewars.com/users/Rocky-04
 
