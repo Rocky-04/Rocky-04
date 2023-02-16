@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Rocky-04)
 <p align="left"><img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Support Ukraine" align = "center" /></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Oleg+Tsynkovskiy;I'm+a+Python+Developer;I'm+a+code+warrior,+always+pushing+the+limits)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Oleg+Tsynkovskiy;I'm+a+Python+Developer;I'm+a+code+warrior,+pushing+the+limits)](https://git.io/typing-svg)
 
 ## I'm a Python Developer
 
