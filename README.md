@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Rocky-04)
 <p align="left"><img src="https://img.shields.io/badge/Support-Ukraine-FFD500?style=flat&labelColor=005BBB" alt="Support Ukraine" align = "center" /></p>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ## I'm a Python Developer
 
 - 🔥 I'm a code warrior, always pushing the limits
@@ -43,3 +43,5 @@
 [telegram]: https://t.me/Rocky_0013
 [codewars]: https://www.codewars.com/users/Rocky-04
 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
